@@ -1,0 +1,303 @@
+{
+  "settings": {
+    "name": "THE 201 INVITATIONAL",
+    "subtitle": "EST. 2012 · FANTASY FOOTBALL",
+    "founded": 2012,
+    "commissioner": "Michael Huss",
+    "tagline": "THE SEASON ENDS. THE RECEIPTS DON'T.",
+    "description": "Fourteen years of titles, rivalries, bad trades and legendary receipts. The official home of The 201 Invitational."
+  },
+  "teams": [],
+  "articles": [
+    {
+      "id": "welcome-201-invitational",
+      "title": "Welcome to The 201 Invitational",
+      "category": "Commissioner's Desk",
+      "author": "Michael Huss",
+      "date": "2026-10-22",
+      "excerpt": "One official home for the champions, collapses, power rankings and receipts dating back to 2012.",
+      "body": "Welcome to The 201 Invitational.\n\nSince 2012, we have made champions, created rivalries and found extraordinary new ways to argue about fantasy football. This site finally puts all of it in one place.\n\nStart with the League History archive for the full championship ledger, then visit the Power Rankings page for the 2026 and dynasty pecking orders. More articles, records and questionable commissioner decisions to come.\n\nThe season ends. The receipts do not.",
+      "published": true,
+      "image": ""
+    },
+    {
+      "id": "champions-soranno",
+      "title": "The three-title standard: Soranno's era",
+      "category": "From the Archives",
+      "author": "The 201 Archive",
+      "date": "2026-10-22",
+      "excerpt": "Nicholas Soranno won it all in 2014, 2016 and 2018 — a benchmark for everyone chasing league immortality.",
+      "body": "Nicholas Soranno owns three titles in the archive: 2014, 2016 and 2018.\n\nThe streak crossed the original scoring format into the keeper years and made Soranno the league's all-time championship leader as recorded in the 2025 presentation.\n\nWill anybody catch him in the dynasty era?",
+      "published": true,
+      "image": ""
+    },
+    {
+      "id": "shared-2022",
+      "title": "2022: The year of two champions",
+      "category": "League Lore",
+      "author": "The 201 Archive",
+      "date": "2026-10-22",
+      "excerpt": "A postponed NFL game led to the league's first shared title: Kevin Goyenechea and Josh Colon.",
+      "body": "The 2022 fantasy championship ended without a single winner. Following the Damar Hamlin game stoppage, Kevin Goyenechea and Josh Colon agreed to share the crown.\n\nIt remains one of the most unusual endings in The 201 Invitational archive. John Curley, meanwhile, posted 1,844.12 points for a scoring-format record but still missed the top three.",
+      "published": true,
+      "image": ""
+    }
+  ],
+  "rankings": {
+    "dynasty": {
+      "updated": "",
+      "intro": "The long view: roster talent, young building blocks, draft capital and future championship windows.",
+      "entries": []
+    },
+    "season2026": {
+      "updated": "",
+      "intro": "The 2026 pecking order: current contenders, underdogs and everything in between.",
+      "entries": []
+    }
+  },
+  "seasons": [
+    {
+      "year": 2012,
+      "champion": "Michael Huss",
+      "runnerUp": "Lochlan Dougherty",
+      "regularSeason": "",
+      "highestPoints": "Lochlan Dougherty",
+      "notes": "The inaugural season. Kevin Goyenechea founded the league and served as its first commissioner. Michael Huss defeated Lochlan Dougherty to become the first champion.",
+      "standings": []
+    },
+    {
+      "year": 2013,
+      "champion": "Adam Malik",
+      "runnerUp": "RJ Pita",
+      "regularSeason": "",
+      "highestPoints": "Adam Malik",
+      "notes": "Eugene Williams and John Curley joined the league. After finishing last in the inaugural season, Adam Malik completed a remarkable turnaround and won the championship against RJ Pita.",
+      "standings": []
+    },
+    {
+      "year": 2014,
+      "champion": "Nicholas Soranno",
+      "runnerUp": "Eugene Williams",
+      "regularSeason": "",
+      "highestPoints": "Ryan Baker",
+      "notes": "Nicholas Soranno captured the first of three titles. Ryan Baker scored 1,335 points, a benchmark for the original standard-scoring format. The season was also remembered for a controversial trade.",
+      "standings": []
+    },
+    {
+      "year": 2015,
+      "champion": "Vincent Troisi",
+      "runnerUp": "Kevin Goyenechea",
+      "regularSeason": "",
+      "highestPoints": "Vincent Troisi",
+      "notes": "Josh Colon and Robbie Arrigo entered the league. Vincent Troisi won his first championship, defeating commissioner Kevin Goyenechea.",
+      "standings": []
+    },
+    {
+      "year": 2016,
+      "champion": "Nicholas Soranno",
+      "runnerUp": "Tim Swatek",
+      "regularSeason": "",
+      "highestPoints": "Tim Swatek",
+      "notes": "Ryan Reynolds joined the league. Nicholas Soranno defeated Tim Swatek to claim his second championship. The draft is remembered for an ambitious homemade board that did not survive the night.",
+      "standings": []
+    },
+    {
+      "year": 2017,
+      "champion": "RJ Pita",
+      "runnerUp": "Josh Colon",
+      "regularSeason": "",
+      "highestPoints": "RJ Pita",
+      "notes": "RJ Pita defeated Josh Colon to earn his championship. Pressure mounted on founding commissioner Kevin Goyenechea.",
+      "standings": []
+    },
+    {
+      "year": 2018,
+      "champion": "Nicholas Soranno",
+      "runnerUp": "Lochlan Dougherty",
+      "regularSeason": "",
+      "highestPoints": "Michael Huss",
+      "notes": "The league switched to a keeper format. Michael Huss set a format scoring mark with 1,734.78 points. Nicholas Soranno defeated Lochlan Dougherty and became the first three-time champion.",
+      "standings": []
+    },
+    {
+      "year": 2019,
+      "champion": "Nickolas Huss",
+      "runnerUp": "Ryan Reynolds",
+      "regularSeason": "",
+      "highestPoints": "Nickolas Huss",
+      "notes": "Anthony Lisi joined the league. A draft at Brother Jimmy's BBQ required a restart after four rounds. Nickolas Huss defeated Ryan Reynolds for the championship.",
+      "standings": []
+    },
+    {
+      "year": 2020,
+      "champion": "Josh Colon",
+      "runnerUp": "Nicholas Soranno",
+      "regularSeason": "",
+      "highestPoints": "Michael Huss",
+      "notes": "An era ended as Kevin Goyenechea stepped down as commissioner and Michael Huss took over. Josh Colon defeated Nicholas Soranno for the title.",
+      "standings": []
+    },
+    {
+      "year": 2021,
+      "champion": "Vincent Troisi",
+      "runnerUp": "Eder Dadul",
+      "regularSeason": "",
+      "highestPoints": "Vincent Troisi",
+      "notes": "Eder Dadul and Brian Lee joined the league after Ryan Reynolds and Ryan Baker departed. The presentation's championship recap lists Vincent Troisi as champion and Eder Dadul as runner-up; a narrative slide gives a conflicting result, so the recap table is used here.",
+      "standings": []
+    },
+    {
+      "year": 2022,
+      "champion": "Kevin Goyenechea / Josh Colon",
+      "runnerUp": "",
+      "regularSeason": "",
+      "highestPoints": "John Curley",
+      "notes": "The Damar Hamlin game stoppage led to a split championship between Kevin Goyenechea and Josh Colon — the first co-champions in league history. John Curley scored 1,844.12 points, a mark for the third scoring format, but did not finish in the top three.",
+      "standings": [],
+      "coChampions": [
+        "Kevin Goyenechea",
+        "Josh Colon"
+      ]
+    },
+    {
+      "year": 2023,
+      "champion": "Robbie Arrigo",
+      "runnerUp": "Kevin Goyenechea",
+      "regularSeason": "",
+      "highestPoints": "Kevin Goyenechea",
+      "notes": "Robbie Arrigo won the championship against Kevin Goyenechea. The league announced that 2024 would be the final year of the keeper-era format.",
+      "standings": []
+    },
+    {
+      "year": 2024,
+      "champion": "Brian Lee",
+      "runnerUp": "Josh Colon",
+      "regularSeason": "",
+      "highestPoints": "Brian Lee",
+      "notes": "Brian Lee defeated Josh Colon to become the final champion of the original keeper-era 201 Invitational. The league prepared to leave ESPN and transition to dynasty play.",
+      "standings": []
+    },
+    {
+      "year": 2025,
+      "champion": "",
+      "runnerUp": "",
+      "regularSeason": "",
+      "highestPoints": "",
+      "notes": "The 2025 presentation proposed the new dynasty era and migration from ESPN to Sleeper. The slide deck does not include the 2025 season results; add those when available.",
+      "standings": []
+    },
+    {
+      "year": 2026,
+      "champion": "",
+      "runnerUp": "",
+      "regularSeason": "",
+      "highestPoints": "",
+      "notes": "The 2026 season has not yet been added to the archive. Championship, final standings and season leaders are pending.",
+      "standings": []
+    }
+  ],
+  "customRecords": [
+    {
+      "label": "MOST CHAMPIONSHIPS",
+      "holder": "Nicholas Soranno",
+      "value": "3 titles",
+      "note": "2014 · 2016 · 2018"
+    },
+    {
+      "label": "MOST CAREER POINTS",
+      "holder": "Nicholas Soranno",
+      "value": "18,000.7",
+      "note": "All-time points scored"
+    },
+    {
+      "label": "MOST CAREER WINS",
+      "holder": "Kevin Goyenechea & Michael Huss",
+      "value": "98 wins",
+      "note": "Tied at the 2025 presentation snapshot"
+    },
+    {
+      "label": "MOST TRANSACTIONS",
+      "holder": "Vincent Troisi",
+      "value": "532 moves",
+      "note": "Career transaction leader"
+    },
+    {
+      "label": "HIGHEST POINTS PER GAME",
+      "holder": "Anthony Lisi",
+      "value": "117.35 PPG",
+      "note": "Career scoring average"
+    },
+    {
+      "label": "BEST CAREER WIN %",
+      "holder": "Eugene Williams & Renee Bruno",
+      "value": "61.54%",
+      "note": "Tied at the 2025 presentation snapshot"
+    },
+    {
+      "label": "MOST CAREER LOSSES",
+      "holder": "RJ Pita",
+      "value": "91 losses",
+      "note": "Career total"
+    },
+    {
+      "label": "LOWEST POINTS PER GAME",
+      "holder": "Adam Malik",
+      "value": "75 PPG",
+      "note": "Career scoring average"
+    },
+    {
+      "label": "LOWEST CAREER WIN %",
+      "holder": "Adam Malik",
+      "value": "30.77%",
+      "note": "Career winning percentage"
+    },
+    {
+      "label": "MOST POINTS AGAINST",
+      "holder": "RJ Pita",
+      "value": "17,538.44",
+      "note": "Career points against"
+    },
+    {
+      "label": "HIGHEST POINTS AGAINST AVG",
+      "holder": "Anthony Lisi",
+      "value": "113.35 PA",
+      "note": "Per-game points against"
+    },
+    {
+      "label": "MOST PODIUMS (EXCL. SORANNO)",
+      "holder": "Vincent Troisi · Kevin Goyenechea · Michael Huss · Josh Colon",
+      "value": "4 each",
+      "note": "Top-three finishes"
+    },
+    {
+      "label": "ORIGINAL SCORING RECORD",
+      "holder": "Ryan Baker",
+      "value": "1,335 pts",
+      "note": "Standard scoring · 1 flex"
+    },
+    {
+      "label": "SECOND FORMAT RECORD",
+      "holder": "Michael Huss",
+      "value": "1,734.78 pts",
+      "note": "Half PPR · decimal · 1 flex"
+    },
+    {
+      "label": "THIRD FORMAT RECORD",
+      "holder": "John Curley",
+      "value": "1,844.12 pts",
+      "note": "Half PPR · decimal · 2 flex"
+    }
+  ],
+  "awards": [
+    {
+      "year": 2024,
+      "name": "Saint Hog",
+      "winner": "Michael Huss"
+    },
+    {
+      "year": 2024,
+      "name": "Golden Hog",
+      "winner": "Nicholas Soranno"
+    }
+  ]
+}
